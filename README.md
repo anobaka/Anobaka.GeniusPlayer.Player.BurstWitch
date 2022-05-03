@@ -60,3 +60,7 @@ Copyright (C) 2022 Anobaka.GeniusPlayer.Player.BurstWitch
   --checkpoint-interval     There will be a suspend (which can be resume by press enter) on every [checkpoint-interval]
                             checkpoints. No suspend will be happened if this value is not set or set to 0.
 ```
+
+## 异常处理
+
+1. 请将异常发生时的屏幕截图以及异常日志同时提交到issue中
